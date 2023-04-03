@@ -77,7 +77,7 @@
         <dependency>
             <groupId>com.google.analytics</groupId>
             <artifactId>google-analytics-data</artifactId>
-            <version>0.10.2</version>
+            <version>0.23.0</version>
         </dependency>
 
         <dependency>
